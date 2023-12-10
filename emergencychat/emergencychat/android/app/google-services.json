@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375592809232",
+    "project_id": "chatemergency-a6b0b",
+    "storage_bucket": "chatemergency-a6b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375592809232:android:58ded386b1634e517feb95",
+        "android_client_info": {
+          "package_name": "com.example.emergencychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs-O3PVCzMSgRzmnw3fKvOnLFlom2q6kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
